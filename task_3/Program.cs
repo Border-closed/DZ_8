@@ -20,6 +20,10 @@ int [,] m_2 = new int [2,2]
     {3, 3},
 };
 
+//Проверка совпедения размеров матриц
+if (m_1.GetLength(0)==m_2.GetLength(0) & m_1.GetLength(1)==m_2.GetLength(1))
+{
+
 // Создание результирующей матрицы
 int [,] res = new int [2,2];
 
@@ -34,4 +38,9 @@ for (int i = 0; i < res.GetLength(0); i++)
         Console.Write($"{res[i,j]}   ");
     }
     Console.WriteLine();
+}
+}
+else
+{
+    Console.WriteLine("Размеры матриц не совпадают, произведение рассчитать невозможно");
 }
