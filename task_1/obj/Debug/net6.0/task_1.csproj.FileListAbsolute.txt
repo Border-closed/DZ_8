@@ -1,0 +1,15 @@
+/Users/samisusami/Desktop/DZ_8/task_1/bin/Debug/net6.0/task_1
+/Users/samisusami/Desktop/DZ_8/task_1/bin/Debug/net6.0/task_1.deps.json
+/Users/samisusami/Desktop/DZ_8/task_1/bin/Debug/net6.0/task_1.runtimeconfig.json
+/Users/samisusami/Desktop/DZ_8/task_1/bin/Debug/net6.0/task_1.dll
+/Users/samisusami/Desktop/DZ_8/task_1/bin/Debug/net6.0/task_1.pdb
+/Users/samisusami/Desktop/DZ_8/task_1/obj/Debug/net6.0/task_1.csproj.AssemblyReference.cache
+/Users/samisusami/Desktop/DZ_8/task_1/obj/Debug/net6.0/task_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samisusami/Desktop/DZ_8/task_1/obj/Debug/net6.0/task_1.AssemblyInfoInputs.cache
+/Users/samisusami/Desktop/DZ_8/task_1/obj/Debug/net6.0/task_1.AssemblyInfo.cs
+/Users/samisusami/Desktop/DZ_8/task_1/obj/Debug/net6.0/task_1.csproj.CoreCompileInputs.cache
+/Users/samisusami/Desktop/DZ_8/task_1/obj/Debug/net6.0/task_1.dll
+/Users/samisusami/Desktop/DZ_8/task_1/obj/Debug/net6.0/refint/task_1.dll
+/Users/samisusami/Desktop/DZ_8/task_1/obj/Debug/net6.0/task_1.pdb
+/Users/samisusami/Desktop/DZ_8/task_1/obj/Debug/net6.0/task_1.genruntimeconfig.cache
+/Users/samisusami/Desktop/DZ_8/task_1/obj/Debug/net6.0/ref/task_1.dll
